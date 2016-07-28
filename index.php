@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','محل توکن شما');
+define('API_KEY','258924216:AAF0XFC9ucWdwIcAiaJ6M-ZNsR97xoY8LPI');
 $admin = '68747297';
 include("telegram.php");
 $telegram = new Telegram(API_KEY);
